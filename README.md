@@ -1,3 +1,11 @@
+> **Provenance and evidence notice**
+>
+> This repository is **not a GitHub fork**, but its README identifies **Rooke Alan Poole** as the lead researcher and creator and links the source project at `rookepoole/SVP-OTG-Poole-Manifold-tests`. Treat this copy as externally originated research material, not as original Weaver authorship.
+>
+> Statements such as “proven,” numerical cosmology improvements, universality, force-law recovery, and experimental predictions are the source project's research claims. Their presence here does not constitute independent replication, peer review, or acceptance by mainstream physics. Reproduce the cited experiments and inspect the source data before relying on them.
+>
+> **Portfolio classification:** external-origin research / collaboration surface; no inherited Weaver evidence or authority.
+
 # The Poole Manifold
 
 **Observative Tetrahedral Gravity (OTG) — A Discrete Computational Substrate for Physics**
@@ -51,7 +59,7 @@ This framework proposes that **reality is discrete computation** — different p
 
 ---
 
-## The Paradigm Shift
+## Source Project Claims and Interpretation
 
 Classical cosmology attempts to map a discrete universe using continuous calculus, resulting in "ghosts," infinities, and artificial smoothing fields. The Poole Manifold proves that space is computationally irreducible.
 
