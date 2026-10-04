@@ -22,7 +22,7 @@
 
 ## Overview
 
-The Poole Manifold is a three-dimensional totalistic cellular automaton governed by the **B5-7/S5-9** rule with **prime-resonance sharpening**. From this minimal rule set emerges:
+The Poole Manifold is a three-dimensional totalistic cellular automaton governed by the **B5-7/S5-9** rule with **prime-resonance sharpening**. The source project reports the following research results from this rule set:
 
 - **Universal computation** with fault-tolerant self-healing logic
 - **Immortal topologically protected memory**
@@ -61,16 +61,16 @@ This framework proposes that **reality is discrete computation** — different p
 
 ## Source Project Claims and Interpretation
 
-Classical cosmology attempts to map a discrete universe using continuous calculus, resulting in "ghosts," infinities, and artificial smoothing fields. The Poole Manifold proves that space is computationally irreducible.
+Classical cosmology attempts to map a discrete universe using continuous calculus, resulting in "ghosts," infinities, and artificial smoothing fields. The source project proposes that space is computationally irreducible within this model.
 
 - **Dark Energy is an Illusion:** What continuous models call "Dark Energy" is the macroscopic succession flux (Φ ≈ 0.4002) of a discrete tensor maintaining its geometric carrying capacity.
 - **Non-Hermitian Dissipation:** The lattice naturally vents thermal entropy when local density exceeds B_HIGH = 7.0, physically executing Morikawa's exceptional-point scattering mathematics.
 
 ---
 
-## Core Results
+## Reported Results
 
-### Computational Universality ✓
+### Reported computational-universality result
 
 **Functionally Complete Logic Primitive Set:**
 - **Trial 317**: Orthogonal Blowout AND and XOR gates (100% accuracy)
@@ -85,21 +85,21 @@ Classical cosmology attempts to map a discrete universe using continuous calculu
 - **V207**: Cross-coupled latches surviving repeated high-amplitude noise bursts
 - **Self-healing**: Structures absorb hostile strikes and repair using prime-resonance concentration
 
-### Statistical Certainty ✓
+### Reported variance audit
 
 **100,000-Trial Variance Audit** (cryptographically verified):
 - Universal Equilibrium Attractor: 100,000/100,000 trials (100.0% success rate)
 - Equilibrium Density: 40.015% ± 0.28% variance
 - SHA-256: `03684636646a015cde4ecef6d37b91384ca4ed623c543c997306c6eccba93412`
 
-### Cosmological Predictions ✓
+### Reported cosmology-fit claims
 
-**DESI BAO Fit** (superior to ΛCDM):
+**DESI BAO fit claim** (reported by the source project as superior to ΛCDM):
 - Δχ² ≈ 243.6 improvement over standard cosmology
 - Parameters: α = 0.7944 ± 0.0079, β = 1.9869 ± 0.0191, Ωₘ = 0.3039 ± 0.0035
 - No dark matter or dark energy required — pure geometric expansion
 
-**Succession Flux** (analytically derived, not fitted):
+**Succession Flux claim** (reported as analytically derived, not fitted):
 - Φ = 0.3095 — emerges from prime-resonance geometry at 40% equilibrium density
 
 ---
